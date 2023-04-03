@@ -1,0 +1,2 @@
+# AnimeXIX
+Mini-Project(WAD)
